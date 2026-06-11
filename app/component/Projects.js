@@ -1,5 +1,5 @@
 export default function Projects() {
-  // PERSONALIZATION: Update this array with your own 3 projects
+  // Will update with other projects
   const projectList = [
     {
       title: "E-Commerce Platform",

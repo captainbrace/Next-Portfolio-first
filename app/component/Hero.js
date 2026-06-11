@@ -5,11 +5,11 @@ export default function Hero() {
         <div className="inline-block px-3 py-1 text-sm font-semibold text-teal-400 bg-teal-950/50 border border-teal-800 rounded-full mb-4">
           Available for Work
         </div>
-        {/* PERSONALIZATION: Your Name */}
+        {'Ethan Kweku Andoh'}
         <h1 class="text-5xl md:text-7xl font-extrabold tracking-tight text-white">
-          Hi, I'm <span className="bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent">Alex Morgan</span>
+          Hi, I'm <span className="bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent">Ethan Kweku Andoh</span>
         </h1>
-        {/* PERSONALIZATION: Your Title */}
+        {'Computer Scientist'}
         <p className="text-xl md:text-2xl text-slate-400 font-medium max-w-2xl mx-auto">
           A passionate Full-Stack Web Developer crafting beautiful, high-performing digital experiences.
         </p>

@@ -9,17 +9,17 @@ export default function Contact() {
         
         {/* PERSONALIZATION: Swap out these details with yours */}
         <div className="flex flex-col md:flex-row justify-center items-center gap-6 pt-4 text-lg">
-          <a href="mailto:your.email@example.com" className="flex items-center gap-3 px-6 py-4 bg-slate-900 rounded-xl border border-slate-800 hover:border-teal-500/50 transition-colors w-full md:w-auto">
+          <a href="mailto:kwekuandoh10@gmail.com" className="flex items-center gap-3 px-6 py-4 bg-slate-900 rounded-xl border border-slate-800 hover:border-teal-500/50 transition-colors w-full md:w-auto">
             <span>📧</span>
-            <span>your.email@example.com</span>
+            <span>kwekuandoh10@gmail.com</span>
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="flex items-center gap-3 px-6 py-4 bg-slate-900 rounded-xl border border-slate-800 hover:border-teal-500/50 transition-colors w-full md:w-auto">
+          <a href="https://linkedin.com/in/kweku-andoh-ethan" target="_blank" rel="noreferrer" className="flex items-center gap-3 px-6 py-4 bg-slate-900 rounded-xl border border-slate-800 hover:border-teal-500/50 transition-colors w-full md:w-auto">
             <span>💼</span>
-            <span>linkedin.com/in/username</span>
+            <span>linkedin.com/in/kweku-andoh-ethan</span>
           </a>
-          <a href="https://github.com" target="_blank" rel="noreferrer" className="flex items-center gap-3 px-6 py-4 bg-slate-900 rounded-xl border border-slate-800 hover:border-teal-500/50 transition-colors w-full md:w-auto">
+          <a href="https://github.com/captainbrace" target="_blank" rel="noreferrer" className="flex items-center gap-3 px-6 py-4 bg-slate-900 rounded-xl border border-slate-800 hover:border-teal-500/50 transition-colors w-full md:w-auto">
             <span>🐙</span>
-            <span>github.com/username</span>
+            <span>github.com/captainbrace</span>
           </a>
         </div>
       </div>

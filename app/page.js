@@ -15,7 +15,7 @@ export default function Home() {
         <Contact />
       </main>
       <footer className="py-8 text-center text-sm text-slate-500 border-t border-slate-800">
-        <p>&copy; {new Date().getFullYear()} Developer.Me. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Ethan.Kweku.Andoh All rights reserved.</p>
       </footer>
     </div>
   );
