@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'My Portfolio',
   description: 'Welcome to my professional portfolio website',
