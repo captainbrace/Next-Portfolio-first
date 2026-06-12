@@ -7,7 +7,7 @@ export default function Hero() {
         </div>
         {'Ethan Kweku Andoh'}
         <h1 class="text-5xl md:text-7xl font-extrabold tracking-tight text-white">
-          Hi, I'm <span className="bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent">Ethan Kweku Andoh</span>
+          Hi, I am <span className="bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent">Ethan Kweku Andoh</span>
         </h1>
         {'Computer Scientist'}
         <p className="text-xl md:text-2xl text-slate-400 font-medium max-w-2xl mx-auto">
@@ -18,7 +18,7 @@ export default function Hero() {
             View My Work
           </a>
           <a href="#contact" className="px-6 py-3 bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold rounded-lg border border-slate-700 transition-all transform hover:-translate-y-0.5">
-            Let's Talk
+            Let{"'"}s Talk
           </a>
         </div>
       </div>
